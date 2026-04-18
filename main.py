@@ -1,2 +1,3 @@
-son = int(input("Sonni kiriting: "))
-print(son / 2)
+son = float(input("Son kiriting: "))
+yarim = son / 2
+print(yarim)
